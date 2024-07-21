@@ -1,36 +1,39 @@
 # Shakespeare-Club
 
-##project Introductions:
-###this project for people who are interested in Shakespeare and his works. its aims to gather people from different walks of life to get togather virtually and learn or discuss the works of William Shakespeare. it aims to raise awareness about his works and give people from different milliues to diss the literary works of him.
+## Project Introductions:
+### This project for people who are interested in Shakespeare and his works. its aims to gather people from different walks of life to get togather virtually and learn or discuss the works of William Shakespeare. it aims to raise awareness about his works and give people from different milliues to diss the literary works of him.
 
-##user experience:
+## User experience:
+### key info
+### User Stories
 
-##Design
-###color scheme
-###typography
-###imagery
-###wireframes
-
-
-##Features
-###special features
-###future implentation
-###accessibility
+## Design
+### Color scheme
+### Typography
+### Imagery
+### Wireframes
 
 
-##Technologieas used
-###languages: HTML & CSS
-###frameworks
-###Libraries
-
-##Deployment & local Development
+## Features
+### Special Features
+### Future implentation
+### Accessibility
 
 
-##Testing
 
-##Credits
+## Technologieas used
+### Languages: HTML & CSS
+### Frameworks
+### Libraries
 
-##Aknoledgment
+## Deployment & local Development
+
+
+## Testing
+
+## Credits
+
+## Aknoledgment
 
 
 
